@@ -1,2 +1,6 @@
 # the-unused-or-unfinished-grape-types
-check the readme
+the unfinished or unused grape types
+# how many?
+2 types
+# which ones?
+Grape 3DS And ADMIN_HOST
